@@ -1,4 +1,5 @@
 import React from "react";
+import menuLinks from "./data/menu_links.json";
 
 function Header() {
     return (
